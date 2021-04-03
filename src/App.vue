@@ -70,7 +70,7 @@ export default {
 
 #app {
   text-align: center;
-  color: #2c3e50;
+  color: #3eff3f;
   margin-top: 60px;
 }
   body{
@@ -82,7 +82,7 @@ export default {
   }
   h2{
       font-size: 90px;
-      color: gray;
+      color:#3eff4f;
   }
   button{
       margin: 20px;
